@@ -1,4 +1,4 @@
-# Angular Lib Starter
+# Angular Lib Starter - Hari Edit
 > Universal, AOT, Web Worker ready lib starter. Use for your Angular libs
 
 
