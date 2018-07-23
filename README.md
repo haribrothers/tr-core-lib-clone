@@ -5,6 +5,7 @@
 ## Getting started
 * fork this
 
+* fork this is a sample i have given here
 * clear the git history `git init .`
 
 * add your source code in `src`.
