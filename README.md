@@ -4,8 +4,11 @@
 
 ## Getting started
 * fork this
+
 * clear the git history `git init .`
+
 * add your source code in `src`.
+
 * change the entry in `webpack.config.js`
 * change the output filnames in `package.json` to match your src files and webpack
   * `"main", "jsnext:main", "module", "types"`
